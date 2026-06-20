@@ -169,16 +169,18 @@ The responsibility must remain attached.
 AI-Foundations-Epistemic-Integrity-and-Knowledge-Validation/
 ├── README.md
 ├── 00_definition.md
-├── 01_answer_is_not_knowledge.md
-├── 02_claim_to_knowledge_boundary.md
-├── 03_source_method_validation_uncertainty_responsibility.md
-├── 04_convergence_is_signal_not_truth.md
-├── 05_authority_is_signal_not_truth.md
-├── 06_consensus_is_signal_not_truth.md
-├── 07_validation_as_gate.md
-├── 08_autonomous_research_agent_requirements.md
-├── 09_manufactured_provenance.md
-├── 10_epistemic_integrity_requirements.md
+├── 01_operational_vocabulary.md
+├── 02_answer_is_not_knowledge.md
+├── 03_claim_to_knowledge_boundary.md
+├── 04_source_method_validation_uncertainty_responsibility.md
+├── 05_traceable_testable_bounded_accountable.md
+├── 06_convergence_is_signal_not_truth.md
+├── 07_authority_is_signal_not_truth.md
+├── 08_consensus_is_signal_not_truth.md
+├── 09_validation_as_gate.md
+├── 10_manufactured_provenance.md
+├── 11_autonomous_research_agent_requirements.md
+├── 12_epistemic_integrity_requirements.md
 ├── LICENSE.md
 └── CITATION.cff
 
