@@ -1,6 +1,6 @@
 # AI Foundations: Epistemic Integrity and Knowledge Validation
 
-## 01 Answer Is Not Knowledge
+## 02 Answer Is Not Knowledge
 
 **An answer is not knowledge unless its source, method, validation, uncertainty, and responsibility remain intact.**
 
