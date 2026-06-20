@@ -164,6 +164,8 @@ The responsibility must remain attached.
 
 ## Repository Structure
 
+```
+
 AI-Foundations-Epistemic-Integrity-and-Knowledge-Validation/
 ├── README.md
 ├── 00_definition.md
@@ -179,6 +181,8 @@ AI-Foundations-Epistemic-Integrity-and-Knowledge-Validation/
 ├── 10_epistemic_integrity_requirements.md
 ├── LICENSE.md
 └── CITATION.cff
+
+```
 
 ## Source-Line
 
