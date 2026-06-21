@@ -1,5 +1,8 @@
 # AI Foundations: Epistemic Integrity and Knowledge Validation
 
+Release: https://github.com/alyssadata/AI-Foundations-Epistemic-Integrity-and-Knowledge-Validation/releases/tag/v1.0.0    
+Date: June 20, 2026
+
 ## The Claim-to-Knowledge Validation Layer
 
 **An answer is not knowledge unless its source, method, validation, uncertainty, and responsibility remain intact.**
