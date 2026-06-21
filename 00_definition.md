@@ -4,7 +4,7 @@
 
 **AI Foundations: Epistemic Integrity and Knowledge Validation** defines the claim-to-knowledge validation layer for AI-generated answers, autonomous research agents, research acceleration systems, governance outputs, and public knowledge claims.
 
-This repository establishes the conditions under which an answer may carry epistemic weight.
+This repository establishes the conditions under which a produced answer may be evaluated as a claim and move toward epistemic weight.
 
 ## Core Definition
 
@@ -32,7 +32,19 @@ A repeated answer may be worth examining.
 
 A convergent answer may create a signal.
 
-A validated answer may carry epistemic weight.
+A validated claim may carry epistemic weight.
+
+## Operational Vocabulary
+
+This repository uses operational vocabulary defined in:
+
+**01_operational_vocabulary.md**
+
+Operational terms are not decorative.
+
+They determine whether an answer remains an answer, becomes an examined claim, or may move toward knowledge-bearing authority.
+
+Terms such as **answer**, **claim**, **knowledge**, **source**, **method**, **validation**, **uncertainty**, **responsibility**, **traceable**, **testable**, **bounded**, **accountable**, **convergence**, **authority**, **consensus**, **signal**, **truth**, **gate**, **provenance**, and **manufactured provenance** must remain defined and stable across the repository.
 
 ## Governing Question
 
@@ -77,7 +89,7 @@ An **inference** is a conclusion drawn from available information.
 
 A **hypothesis** is a testable proposal.
 
-**Knowledge** is a claim that has passed through validation while preserving source, method, uncertainty, and responsibility.
+**Knowledge** is a claim that has passed through validation while preserving source, method, validation status, uncertainty, and responsibility.
 
 AI Foundations requires these categories to remain distinct.
 
@@ -93,7 +105,7 @@ Consensus may show current agreement.
 
 None of these replaces validation.
 
-A claim becomes usable only when it remains intact under test.
+A claim becomes knowledge-bearing only when it remains intact under test.
 
 ## Manufactured Provenance Position
 
@@ -107,6 +119,7 @@ A system may not produce an answer first and later decorate it with source-like,
 
 This repository provides AI Foundations requirements for:
 
+- defining operational vocabulary
 - preserving source integrity
 - separating answer from knowledge
 - separating convergence from truth
