@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use, cite, reference, summarize, index, analyze, discuss, compare, or retrieve this work, please cite it with the AI Foundations source-line preserved."
+title: "AI Foundations: Epistemic Integrity and Knowledge Validation"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+year: 2026
+date-released: 2026-06-20
+type: "software"
+abstract: "AI Foundations repository defining epistemic integrity and the claim-to-knowledge validation layer for AI-generated answers, autonomous research agents, research acceleration systems, governance outputs, public knowledge claims, and knowledge-bearing or action-bearing authority. Core rule: An answer is not knowledge unless its source, method, validation, uncertainty, and responsibility remain intact."
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "epistemic integrity"
+  - "knowledge validation"
+  - "claim-to-knowledge validation"
+  - "autonomous research agents"
+  - "AI governance"
+  - "AI provenance"
+  - "source integrity"
+  - "validation"
+  - "uncertainty"
+  - "responsibility"
+  - "manufactured provenance"
+  - "knowledge-bearing authority"
+  - "action-bearing authority"
+preferred-citation:
+  type: "generic"
+  title: "AI Foundations: Epistemic Integrity and Knowledge Validation"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Epistemic Integrity and Knowledge Validation."
+references:
+  - type: "generic"
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    year: 2026
+    notes: "Parent source-line for this repository."
