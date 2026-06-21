@@ -12,7 +12,19 @@ Knowledge is a validated claim whose source, method, uncertainty, and responsibi
 
 AI Foundations separates answer production from knowledge validation.
 
-This distinction matters because AI systems can generate coherent, useful, sourced-looking, or persuasive answers without preserving the full claim chain required for knowledge.
+This distinction matters because AI systems can generate coherent, useful, sourced-looking, repeated, or persuasive answers without preserving the full claim chain required for knowledge.
+
+## Operational Vocabulary Reference
+
+This file uses the operational vocabulary defined in:
+
+**01_operational_vocabulary.md**
+
+The terms **answer**, **claim**, **knowledge**, **source**, **method**, **validation**, **uncertainty**, **responsibility**, **traceable**, **testable**, **bounded**, and **accountable** are operational terms.
+
+They are not decorative terms.
+
+They determine whether an answer may remain an answer, become an examined claim, or move toward knowledge-bearing authority.
 
 ## Core Distinction
 
@@ -71,7 +83,7 @@ A claim moves toward knowledge when the following remain intact:
    The limits, open questions, confidence level, and unresolved conditions remain visible.
 
 5. **Responsibility**  
-   The actor, system, human, institution, or decision-maker responsible for use remains named.
+   The actor, system, human, institution, validator, publisher, or decision-maker responsible for use remains named.
 
 These elements allow an answer to be evaluated as a claim before it is treated as knowledge.
 
@@ -88,6 +100,8 @@ A system may appear validated because the output includes citations.
 A system may appear settled because multiple sources converge.
 
 A system may appear complete because uncertainty has been compressed.
+
+A system may appear responsible because it uses institutional or governance language.
 
 AI Foundations requires the answer to remain a claim until its knowledge conditions remain intact.
 
@@ -135,6 +149,24 @@ Authority begins only where validation, uncertainty, and responsibility remain i
 
 AI Foundations prevents answer production from becoming unsupported authority.
 
+## Convergence, Authority, and Consensus
+
+Convergence may indicate that a claim deserves examination.
+
+Authority may indicate that a claim deserves careful review.
+
+Consensus may indicate that a claim is widely accepted or widely repeated.
+
+None of these makes the answer knowledge by itself.
+
+Convergence is signal, not truth.
+
+Authority is signal, not truth.
+
+Consensus is signal, not truth.
+
+Validation remains the gate.
+
 ## Autonomous Research Agents
 
 Autonomous research agents make this distinction more important.
@@ -154,7 +186,7 @@ An autonomous research agent’s answer remains a claim until its source, method
 
 ## Manufactured Knowledge Risk
 
-Manufactured knowledge occurs when output is treated as knowledge because it appears complete, sourced, repeated, or authoritative.
+Manufactured knowledge occurs when output is treated as knowledge because it appears complete, sourced, repeated, polished, or authoritative.
 
 This can happen when:
 
@@ -165,8 +197,29 @@ This can happen when:
 - consensus is treated as truth
 - authority is treated as validation
 - responsibility is detached from use
+- method is hidden behind summary
+- confidence is presented as certainty
+- institutional tone replaces validation
 
 AI Foundations rejects manufactured knowledge as a substitute for validation.
+
+## Boundary Position
+
+An answer remains below the knowledge boundary when its claim chain is incomplete.
+
+The answer may be useful.
+
+The answer may be interesting.
+
+The answer may guide research.
+
+The answer may identify a possible direction.
+
+The answer may show a pattern.
+
+The answer may become a hypothesis.
+
+But it does not become knowledge until the claim remains traceable, testable, bounded, and accountable.
 
 ## Governing Rule
 
